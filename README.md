@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JoeCraven
+- 👀 I’m interested in coding to further my career as a QA Engineer
+- 🌱 I’m currently learning C# with a view to python and other languages that will help with Automation 
+- 💞️ I’m looking to collaborate on simple automation projects to learn the fundimentals 
+- 📫 Best place to reach me is LinkedIn
